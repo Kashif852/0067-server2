@@ -36,9 +36,9 @@ const ImageKit = require('imagekit');
 var ap = express()
 
 const imagekit = new ImageKit({
-  publicKey : "public_aEaOaYimggRM+4kgwtcDb4PKl9Y=",
-    privateKey : "private_D7+4Zno0EkO2fdFhMwTeX8Zwpho=",
-    urlEndpoint : "https://ik.imagekit.io/ymjlyrr8zyb"
+  publicKey : "",
+    privateKey : "",
+    urlEndpoint : ""
 });
 
 
